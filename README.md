@@ -20,10 +20,13 @@ I've included these in the GitHub repository, users can then move them to the co
 
 
 Install Beautiful Soup
-pip install beautifulsoup4
+
+`pip install beautifulsoup4`
 
 Install Google Cloud Language Package
-pip install --upgrade google-cloud-language
+
+`pip install --upgrade google-cloud-language`
 
 Download your ENV variables from Google CLoud
+
 https://cloud.google.com/natural-language/docs/quickstart-client-libraries
